@@ -18,7 +18,7 @@ namespace HelperMethods
             Console.Write("What is your last name? ");
             string lastName = Console.ReadLine();
 
-            Console.Write("In what city were you born? ");
+            Console.Write("In what country were you born? ");
             string city = Console.ReadLine();
 
             DisplayResult(ReverseString(firstName),
